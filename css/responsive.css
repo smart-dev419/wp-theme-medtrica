@@ -1,0 +1,121 @@
+@media only screen and (max-width:1199px){.container{max-width:100%;}
+.popular-products-section .popular-list .owl-theme .owl-nav div{left:-14px;}
+.popular-products-section .popular-list .owl-theme .owl-nav .owl-next{right:-14px;}
+}
+@media only screen and (min-width:768px) and (max-width:1199px){#mainfooter .topfooter .colum{margin-right:2%;min-width:18%;}
+#mainfooter .topfooter .colum.firstcolum{width:42%;}
+#mainfooter .topfooter .colum.lastcolum{width:36%;}
+#mainfooter .topfooter .colum .reachdetail{margin-right:1%;width:49%;}
+#mainfooter .topfooter .colum .es_widget_form .es_textbox{width:67%;}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){.home-banner .box{transform:translateY(-140%);}
+.detailmainrow .leftpaneldetail .blueheading{font-size:15px;}
+.blog-section .blog-left .post-list li{margin-right:3.1%;}
+#mainheader .btrow .menu > ul > li > a{padding:0 8px;}
+}
+@media only screen and (min-width:768px) and (max-width:991px){}
+@media only screen and (max-width:991px){body{font-size:12px;}
+.menuicon{display:block;}
+#mainheader .btrow .menu{display:none;}
+#mainheader .btrow .menu ul li a{padding:0 5px;font-size:13px;}
+.blog-updates-section ul li{width:31%;margin:0 1% 0 1%;}
+.product-categories-section ul li{width:32%;padding:0 0.5%;float:none;}
+.aboutus-section .leftdetail{width:41%;margin-right:2%;padding-left:12px;}
+.owl-theme .owl-nav{display:none;}
+#mainheader .toprow .searchbl{min-width:354px;}
+.home-banner .box{width:360px;transform:translateY(-140%);}
+.home-banner .box .innside{padding:14px;width:100%;height:auto;}
+.home-banner .box h1{font-size:22px;line-height:normal;}
+.home-banner .box h2{font-size:20px;line-height:normal;}
+.detailmainrow .leftpaneldetail{float:left;width:36%;}
+.detailmainrow .rightpaneldetail{float:right;width:60%;}
+.detailmainrow .leftpaneldetail .blueheading{font-size:15px;}
+.product-list .item{width:47%;margin-right:1.5%;margin-left:1.5%;}
+.detalmainh_orng{font-size:24px;}
+.float-right{float:none !important;}
+.your-patients-section .textdata{position:relative;width:100%;height:auto;padding:10px 5%;font-size:14px;background:rgba(0,0,0,0.5);}
+.your-patients-section .textdata h2{font-size:18px;line-height:normal;padding-bottom:8px;margin-bottom:6px;}
+.testimonialwrap .testimonial span.testid{width:84%;font-size:18px;line-height:normal;padding-top:30px;}
+.blog-section .blog-left{width:58.5%;margin-right:2.5%;}
+.blog-section .blog-right{float:left;width:39%;}
+.blog-section .blog-left .post-list li{margin-bottom:14px;margin-right:0;width:100%;}
+.blog-section .blog-left .post-list img{width:100%;}
+.comment-respond input{width:100%;}
+.iframemap{margin-left:0;width:100%;}
+.enquiryform .inputrow input.cuptchacode{width:100%;}
+.woocommerce-page ul.products.grid li.product{width:47%;margin-right:1.5%;margin-left:1.5%;}
+}
+@media only screen and (min-width:768px){}
+@media only screen and (max-width:767px){	
+
+
+.leftpaneldetail .blueheading, .detailmainrow .leftpaneldetail .blockside{display:none!important;}
+img.alignleft.size-medium.wp-image-2417.lazyloaded {   display: none; }
+
+#mainheader .btrow .carticon, #mainheader .btrow .socialicon, #mainheader .btrow .callicon{padding-left:5px;margin-left:5px;}
+#mainheader .toprow .logo{float:none;margin:5px 0;text-align:center;}
+#mainheader .toprow .searchbl{min-width:354px;float:none;margin:8px auto;width:354px;}
+.aboutus-section .leftdetail{width:100%;margin-right:0;padding-left:12px;margin-bottom:20px;}
+.aboutus-section .rightdetail{width:100%;}
+#mainfooter .topfooter .colum .reachdetail{margin-right:0;float:left;line-height:normal;width:100%;margin-bottom:18px;}
+#mainfooter .topfooter .colum{margin-right:0;min-width:100%;}
+#mainfooter .topfooter .colum.firstcolum{width:100%;}
+#mainfooter .topfooter .colum ul{margin:0px 0 20px 0;}
+#mainfooter .topfooter .colum.lastcolum{width:100%;}
+#mainfooter .topfooter .colum .es_widget_form .es_textbox{width:71%;}
+.displayinline{display:block;}
+#mainfooter .copyright .left, #mainfooter .copyright .right{width:100%;text-align:center;}
+#mainfooter .copyright{font-size:11px;line-height:normal;}
+.home-banner .box{width:100%;transform:translateY(0%);position:relative;right:0px;padding-bottom:30px;}
+.home-banner .box .innside{padding:6px 0;margin-bottom:8px;width:100%;height:auto;}
+#mainfooter .topfooter .colum .reachdetail{margin-right:5%;width:auto;}
+.detailmainrow .leftpaneldetail{float:left;width:100%;}
+.detailmainrow .rightpaneldetail{float:right;width:100%;}
+.leftpanlzoom{width:100%;}
+.rightpanlfulldetail{width:100%;}
+.margenbt45{margin-bottom:30px;}
+.blog-section .blog-left{float:left;width:100%;margin-right:0;}
+.blog-section .blog-right{float:left;width:100%;}
+.blog-section .blog-left .post-list li{margin-bottom:18px;margin-right:0;width:100%;display:inline-block;vertical-align:top;}
+.blog-section .blog-left .post-list img{width:100%;}
+#mainfooter .topfooter .colum .textlink{/*display:none;*/}
+#mainfooter .topfooter .colum h5{position:relative;padding-bottom:10px;cursor:pointer;margin-bottom:10px;}
+#mainfooter .topfooter .colum h5:after{content:"\f107";font-family:'FontAwesome';font-size:20px;position:absolute;right:0;top:-2px}
+#mainfooter .topfooter .colum h5.active:after{content:"\f106"}
+.blog-updates-section ul li .textcon{min-height:inherit;}
+.woocommerce-page div.detailmainrow div.images{width:100%;}
+.woocommerce table.shop_table tr{border-top:solid 1px #ccc;}
+.woocommerce table.shop_table tr td{width:100%;text-align:center !important;border-top:none;padding:4px 6px;}
+.woocommerce table.shop_table td.space{display:none;}
+.woocommerce table.shop_table td::before{display:none;}
+.woocommerce table.shop_table td.product-thumbnail{display:block;}
+.woocommerce table.shop_table td a.remove{display:inline-block;}
+.stylecart_button{font-size:14px;}
+.home-banner .owl-theme .owl-dots{bottom:0px;}
+
+#mainfooter .topfooter .colum.lastcolum{padding:0 20px;  margin:20px 0 0;}
+
+}
+@media only screen and (max-width:639px){#mainheader .btrow .socialicon{display:none;}
+.product-categories-section ul li{width:49%;}
+.blog-updates-section ul li{width:98%;margin:0 1% 0 1%;}
+.your-patients-section{width:100%;margin-bottom:20px;}
+.competition-section{width:100%;}
+.testimonialwrap .testimonial{width:100%;border-right:none;padding:0 0 0 0;margin-right:0;margin-bottom:20px;}
+.pdfpannel.text-center{width:100%;padding:30px 0;}
+.testimonialwrap .testimonial span.testid{width:80%;font-size:16px;line-height:normal;padding-top:30px;}
+}
+@media only screen and (max-width:479px){
+.mtr-popup{width:300px;}
+.padd46px{padding-top:24px;padding-bottom:24px;}
+.margenbt30{margin-bottom:16px;}
+#mainheader .toprow .searchbl{min-width:100%;width:100%;}
+.product-categories-section ul li{width:99%;}
+.aboutus-section .leftdetail h2.subheading{font-size:26px;}
+.aboutus-section .leftdetail h3{font-size:22px;}
+.aboutus-section .leftdetail h4{font-size:20px;line-height:normal;}
+.aboutus-section .leftdetail .linkbtn{margin-top:20px;}
+.subheading-orang{font-size:24px;}
+.product-list .item{width:98%;}
+.woocommerce-page ul.products.grid li.product{width:100%;margin-right:0;}
+}

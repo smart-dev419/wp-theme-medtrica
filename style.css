@@ -1,0 +1,11 @@
+/*
+Theme Name: Medtrica
+Theme URI: http://medtrica.com/
+Author: Medtrica
+Author URI: http://medtrica.com/
+Version: 1.0
+Description: Our 2017 default theme is clean, blog-focused, and designed for clarity.
+*/
+@media only screen and (max-width: 767px){
+.leftpaneldetail .blueheading, .detailmainrow .leftpaneldetail .blockside{display:none;}
+}
